@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">¿Cual es tu equipo de futbol favorito?</string>
+    <string name="Equipo1">Portugalete F.C.</string>
+    <string name="Equipo2">Erandio</string>
+    <string name="Equipo3">Athletic</string>
+    <string name="Equipo4">Otros equipos mejores</string>
+    <string name="opcion1">Gran equipo de futbol el Portugalete </string>
+    <string name="opcion2">Gran equipo de futbol el Erandio</string>
+    <string name="opcion3">Gran equipo de futbol el Athletic</string>
+    <string name="opcion4">No solo importa el dinero o los titulos</string>
+    <string name="Me_gusta">Me gusta el futbol</string>
+</resources>
